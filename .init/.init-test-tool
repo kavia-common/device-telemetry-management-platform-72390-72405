@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/device-telemetry-management-platform-72390-72405/backend_fastapi"
+}
